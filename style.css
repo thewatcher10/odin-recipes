@@ -1,0 +1,12 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1,ul,li,p,h3 {
+    font-family: Helvetica;
+    color: black;
+}
+
+h1,h2 {
+    text-align: center;
+}
